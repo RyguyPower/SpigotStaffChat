@@ -1,0 +1,9 @@
+main: me.ryguy.diviniuschat.StaffChat
+name: Divinius
+version: 1.0
+author: Ryguy/RyguyPower
+commands:
+   staffchat:
+      description: Main command for StaffChat.
+      aliases: [sc, staffc]
+      usage: /<command>
